@@ -286,7 +286,7 @@
       }
 
       // Update page title
-      document.title = property.title + ' — City Place Doha';
+      document.title = property.title + ' — City Space Doha';
 
       // Gallery
       var galleryHTML = '<div class="gallery-main" onclick="openLightbox(0)">' +
